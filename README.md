@@ -10,3 +10,13 @@
 Python & PyCharm
 
 ## Иллюстрация игры
+### Стартовое окно
+![image](https://github.com/user-attachments/assets/de8b2c43-1f91-46be-838e-ced39b608141)
+
+### Основное окно игры
+![image](https://github.com/user-attachments/assets/bc0de8f0-ea70-49e9-abab-4edc10963ea1)
+
+### Окно победы
+![image](https://github.com/user-attachments/assets/c9b1f96e-b4f6-4410-af76-fadbd7b9dff7)
+
+
